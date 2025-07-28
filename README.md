@@ -26,6 +26,28 @@ I believe in learning by **building projects** and experimenting with code!
 - Learning best practices for clean code and efficient programming.
 
 ---
+## 🚀 Featured Project: Wire Fault Detection System
+
+![Project Banner](https://img.shields.io/badge/Arduino-Prototype-blue?style=flat&logo=arduino)
+
+An Arduino-based system to **detect internal wire cuts** without stripping insulation, using a **Hall Effect sensor**, LEDs, and a buzzer.
+
+### 🔧 Key Features:
+- 📉 Detects magnetic field drop caused by wire faults
+- 💡 Blinking internal LED before detection; steady ON after cut
+- 🔊 Buzzer alarm with frequent beeps on fault detection
+- 🧠 Auto-threshold detection with reading smoothing to avoid false alarms
+- 🕐 Auto-reset after cut detection with configurable delay
+- 📄 Multiple versions documented for learning and troubleshooting
+
+### 📂 Versions Tracked:
+- `V1-basic` – Raw sensor readings & serial monitoring
+- `V2.0` – Added internal LED signal
+- `V3.0` – Added buzzer + auto-reset
+- `V4.0` – Self-threshold + smoothing + full integration
+
+🔗 **[View Full Project Repository →](https://github.com/Shreyas1410-cmd/wire-fault-detector)**
+
 
 ## 🚀 Projects
 
