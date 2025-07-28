@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shreyas Kulkarni!
+# 👋 Hi, I'm Munni Badmosh !
 
 I'm a **First-Year Computer Science student** passionate about building things while learning! 🚀  
 Currently exploring **C**, **C++**, and **Python**, and strengthening my basics in **Data Structures and Algorithms**.  
